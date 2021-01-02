@@ -1,0 +1,15 @@
+{
+    "name": "The Exist Wealth Architect",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single",
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Wealth Architect",
+        "/category/asset_value_tracking/token/symbol": "AOO",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "0"
+    }
+}
